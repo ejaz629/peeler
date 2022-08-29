@@ -6,5 +6,4 @@
 	@inproceedings{ahmed2021peeler,  title={Peeler: Profiling Kernel-Level Events to Detect Ransomware},  
 	author={Ahmed, Muhammad Ejaz and Kim, Hyoungshick and Camtepe, Seyit and Nepal, Surya},  
 	booktitle={European Symposium on Research in Computer Security},  
-	pages={240--260},  
-	year={2021},  organization={Springer}}
+	pages={240--260}, year={2021},  organization={Springer}}
